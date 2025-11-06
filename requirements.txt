@@ -1,0 +1,22 @@
+# Core dependencies
+langchain>=0.0.329
+langchain-text-splitters>=0.0.1
+langgraph>=0.0.26
+
+# LLM and embeddings
+sentence-transformers>=2.3.1
+
+# Vector database
+chromadb>=0.4.22
+
+# PDF processing
+pypdf>=3.17.4
+
+# HTTP requests (for Ollama)
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: for better logging
+colorama==0.4.6
