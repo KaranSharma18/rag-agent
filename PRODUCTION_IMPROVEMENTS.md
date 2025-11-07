@@ -2,7 +2,7 @@
 
 ## Context
 
-This document outlines the current implementation, its limitations, and the path to production readiness. Given the 24-hour constraint, we prioritized **demonstrating core agent concepts** over production infrastructure. However, I've designed the architecture with extensibility in mind for these future enhancements.
+This document outlines the current implementation, its limitations, and the path to production readiness. Given the 24-hour constraint, I prioritized **demonstrating core agent concepts** over production infrastructure. However, I've designed the architecture with extensibility in mind for these future enhancements.
 
 ---
 
